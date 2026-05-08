@@ -1,4 +1,4 @@
-# MLP_MNIST_Digit_Classification_Experiments
+# MLP MNIST Digit Classification Experiments
 
 This project was developed as part of the Programming for FinTech course at the Shanghai Advanced Institute of Finance (SJTU).
 
